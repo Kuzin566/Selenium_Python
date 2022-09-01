@@ -1,2 +1,4 @@
-Данный код проверяет бизнес путь на сайте https://www.saucedemo.com
-Реализованно в PyCharm. Chrome Selenium
+1.smoke_test.py
+Данный код проверяет основной бизнес путь на сайте https://www.saucedemo.com от авторизации
+до покупки товара.
+Среда разработки - PyCharm. Selenium WebDriver.Chrome
